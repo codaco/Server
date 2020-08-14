@@ -1,3 +1,3 @@
-# Hello
+# This repository has moved
 
-You are probably looking for <https://github.com/complexdatacollective/Server>
+You can find the code for Network Canvas Server at <https://github.com/complexdatacollective/Server>.
